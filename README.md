@@ -1,0 +1,2 @@
+# Script-Doller
+For Clipclap
